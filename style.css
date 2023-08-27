@@ -1,0 +1,36 @@
+#lens{
+    width:120px;
+    height:100px;
+}
+
+#mobilenet{
+    background-color:skyblue
+}
+
+.money{
+    width:250px;
+    float:left;
+}
+
+#text{
+    float:left;
+}
+
+.outputM{
+    float:right;
+}
+
+.result{
+    font-size:20px;
+}
+
+.draw{
+    font-size:20px;
+}
+
+.bottle{
+    width:500px;
+    height:300px;
+    float:left;
+}
+
